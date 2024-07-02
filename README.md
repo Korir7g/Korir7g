@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on this platform
 - 📫 How to reach me +254722370430 Eldoret @Kenya
 - email: korirgeoerge71@gmail.com
-- I am an intermediate programmer, good in php, javascript, html and css
+- I am a proficient programmer, good in php, javascript, React, Next.js
 - 
 
 <!---
