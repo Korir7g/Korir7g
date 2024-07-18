@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Korir7g
+- 👋 Hi, I’m George Korir
 - 👀 I’m a full stack and freelancer web developer
 - 🌱 I’m currently learning graphics and web design 
 - 💞️ I’m looking to collaborate on this platform
